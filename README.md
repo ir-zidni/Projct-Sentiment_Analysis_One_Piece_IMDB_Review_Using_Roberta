@@ -5,13 +5,6 @@ Sentiment analysis is the process of analyzing digital text to determine if the 
 In this notebook, I will do sentiment analysis on One Piece Live Action IMDB Reviews.
 
 Package Used :
-pandas
-NLTK 
-numpy
-matplolib
-scipy
-Seaborn
-tqdm
-transformers
+pandas, NLTK , numpy, matplolib, scipy, seaborn, tqdm, transformers
 
 
